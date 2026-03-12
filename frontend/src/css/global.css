@@ -1,0 +1,17 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+background:#f4f6f9;
+display:flex;
+justify-content:center;
+}
+
+#root{
+width:100%;
+max-width:1200px;
+}
